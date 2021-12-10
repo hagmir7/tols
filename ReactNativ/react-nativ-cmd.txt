@@ -1,0 +1,8 @@
+# Install the command line tools
+$ npm install --global expo-cli / $ npm i -g expo-cli
+
+# Create a new Project
+$ expo init my-project
+
+# Check if install is successfuly
+$ npm audit

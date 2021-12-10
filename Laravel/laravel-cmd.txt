@@ -1,0 +1,9 @@
+# Create larave project
+$ composer create-project --prefer-dist larave/laravel blog "6.*"
+
+# Run server
+$ php artisan server
+
+# Create new Controller
+$ php artisan make:controller my-controller
+

@@ -1,0 +1,2 @@
+# Add proxy to npm install 
+$ npm config set proxy http://12.122.13.45:8080
