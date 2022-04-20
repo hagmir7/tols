@@ -31,6 +31,10 @@ $ git config --global --unset core.gitproxy
 # Update repo remote
 $ git remote set-url origin https://...
 
+# Add proxy to pip
+$ export https_proxy="http://26.26.26.47:8080"
+
+
 
 
 
